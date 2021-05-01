@@ -29,4 +29,4 @@ cd /var/www/
 
 Agora, deem o comando
 
-git clone
+git clone https://github.com/IgorPereira1997/ProjetoBase.git
